@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Programming Languages
-<img src = 'https://github.com/EricOropezaelwood/EricOropezaelwood/blob/master/images/python.jpg' height='30'/>
+<img src = './images/python.jpg' height='30'/>
