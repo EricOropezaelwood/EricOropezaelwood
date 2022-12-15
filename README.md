@@ -13,5 +13,6 @@ You can click the Preview link to take a look at your changes.
 <code><img src = './images/python.png' height='30'/></code>
 <code><img src = './images/terraform.svg' height='30'/></code>
 <code><img src = './images/linux.png' height='30'/></code>
+<code><img src = './images/bash.png' height='30'/></code>
 <code><img src = './images/docker.png' height='30'/></code>
 <code><img src = './images/kubernetes.png' height='30'/></code>
