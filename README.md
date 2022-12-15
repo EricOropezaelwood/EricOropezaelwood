@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Programming Languages / Technologies
-<img src = './images/python.png' height='30'/>
-<img src = './images/terraform.svg' height='30'/>
-<img src = './images/docker.png' height='30'/>
+<code><img src = './images/python.png' height='30'/></code>
+<code><img src = './images/terraform.svg' height='30'/></code>
+<code><img src = './images/docker.png' height='30'/></code>
 
