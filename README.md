@@ -1,3 +1,5 @@
+=====🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄=====
+
 - 👋 Hi, I’m @EricOropezaelwood
 - 👀 I’m interested in ... seeing what this README is
 - 🌱 I’m currently learning ... what this README is
