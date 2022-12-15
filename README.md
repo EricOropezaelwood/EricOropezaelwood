@@ -18,3 +18,5 @@ You can click the Preview link to take a look at your changes.
 <code><img src = './images/kubernetes.png' height='30'/></code>
 <code><img src = './images/aws.png' height='30'/></code>
 <code><img src = './images/azure.png' height='30'/></code>
+<code><img src = './images/ansible.png' height='30'/></code>
+<code><img src = './images/vagrant.png' height='30'/></code>
