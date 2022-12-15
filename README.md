@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricOropezaelwood
 - 👀 I’m interested in ... seeing what this README is
 - 🌱 I’m currently learning ... what this README is
-- 💞️ I’m looking to collaborate on ... this READMS
+- 💞️ I’m looking to collaborate on ... this README
 - 📫 How to reach me ... GitHub dm, is that a thing?
 
 <!---
@@ -10,5 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Programming Languages / Technologies
-<img src = './images/python.png' height='30'/> <img src = './images/terraform.svg' height='30'/> <img src = './images/docker.png' height='30'/>
+<img src = './images/python.png' height='30'/>
+<img src = './images/terraform.svg' height='30'/>
+<img src = './images/docker.png' height='30'/>
 
