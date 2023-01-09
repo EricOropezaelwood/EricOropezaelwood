@@ -1,10 +1,10 @@
-=====🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄=====
+=====🕴🏽🕴🏽🕴🏽🕴🏽🕴🏽=====
 
 - 👋 Hi, I’m @EricOropezaelwood
-- 👀 I’m interested in ... seeing what this README is
-- 🌱 I’m currently learning ... what this README is
-- 💞️ I’m looking to collaborate on ... this README
-- 📫 How to reach me ... GitHub dm, is that a thing?
+
+- 🌱 I’m currently learning ... Application Gateway and Load Balancing
+- 💞️ I’m looking to collaborate on ... open source Python projects
+- 📫 How to reach me ... GitHub dm, is that a thing? Or eric.oropezaelwood@gmail.com
 
 <!---
 EricOropezaelwood/EricOropezaelwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
