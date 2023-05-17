@@ -1,8 +1,10 @@
+=====🕴🏽🕴🏽🕴🏽🕴🏽🕴🏽=====
+
 - 👋 Hi, I’m @EricOropezaelwood
-- 👀 I’m interested in ... seeing what this README is
-- 🌱 I’m currently learning ... what this README is
-- 💞️ I’m looking to collaborate on ... this README
-- 📫 How to reach me ... GitHub dm, is that a thing?
+
+- 🌱 I’m currently learning ... Application Gateway and Load Balancing
+- 💞️ I’m looking to collaborate on ... open source Python projects
+- 📫 How to reach me ... GitHub dm, is that a thing? Or eric.oropezaelwood@gmail.com
 
 <!---
 EricOropezaelwood/EricOropezaelwood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Programming Languages / Technologies
+
 <code><img src = './images/python.png' height='30'/></code>
 <code><img src = './images/terraform.svg' height='30'/></code>
 <code><img src = './images/linux.png' height='30'/></code>
@@ -23,3 +26,4 @@ You can click the Preview link to take a look at your changes.
 <code><img src = './images/react.png' height='30'/></code>
 <code><img src = './images/vue.png' height='30'/></code>
 
+<code><img src = './images/postgresql_elephant.svg' height='30'/></code>
