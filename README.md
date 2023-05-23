@@ -1,9 +1,9 @@
-=====🕴🏽🕴🏽🕴🏽🕴🏽🕴🏽=====
+===== ☕☕☕☕ =====
 
 - 👋 Hi, I’m @EricOropezaelwood
 
-- 🌱 I’m currently learning ... Application Gateway and Load Balancing
-- 💞️ I’m looking to collaborate on ... open source Python projects
+- 🌱 I’m currently learning ... Vue, React, Web Scraping
+- 🪚 I’m looking to collaborate on ... open source Python projects
 - 📫 How to reach me ... GitHub dm, is that a thing? Or eric.oropezaelwood@gmail.com
 
 <!---
